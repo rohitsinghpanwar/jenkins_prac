@@ -1,1 +1,1 @@
-print("github automation checking
+print("checking the email service for jenkins")
